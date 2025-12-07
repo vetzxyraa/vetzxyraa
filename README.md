@@ -3,7 +3,7 @@
 <br />
 
 <h3 align="left" style="color: #ffffff; border-bottom: 3px solid #ffffff; display: inline-block; padding-bottom: 5px;">
-  ACCESS GRANTED: CYBER SECURITY ENTHUSIAST
+  CYBER SECURITY ENTHUSIAST
 </h3>
 
 <br />
